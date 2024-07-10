@@ -1,2 +1,2 @@
 # Netflix-
-Netflix Clone form Sigma Web Development Course
+Netflix Clone from Sigma Web Development Course
